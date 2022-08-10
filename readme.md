@@ -3,3 +3,5 @@
 ## Big decisions making tool [WADM](https://codepen.io/itsmacr8/full/XWEzodj)
 
 ## Upload a post on [how does bank calculate interest rate?](https://itsmacr8.hashnode.dev/typescript-project-how-does-a-bank-calculate-interest-rate)
+
+## Upload a post on [savings account](https://itsmacr8.hashnode.dev/are-you-becoming-poor-with-a-savings-account)
